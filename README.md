@@ -43,7 +43,7 @@ Clone o Repositório: Para acessar os arquivos, clone este repositório no seu c
 
 bash
 Copiar código
-git clone https://github.com/seu-usuario/desenvolvimento-jogos-web-ii.git
+git clone [https://github.com/seu-usuario/desenvolvimento-jogos-web-ii.git](https://github.com/aquilapas/djwiiDesenvolvimentoJogos/tree/main)
 Navegue entre as Aulas: Use a pasta aulas/ para acessar o conteúdo de cada encontro.
 
 Submeta seus Projetos: Para o projeto final, suba o seu trabalho na pasta projetos/projetos_alunos/. Crie uma subpasta com o seu nome ou o nome do seu grupo.
