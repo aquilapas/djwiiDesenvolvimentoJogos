@@ -1,64 +1,56 @@
-🎮 Desenvolvimento de Jogos Web II - Etec Lauro Gomes
-👩‍🏫 Professora: Áquila Porfírio
+# 🎮 DJWII - Desenvolvimento de Jogos Web II - Etec Lauro Gomes - Centro Paula Souza
 
-Bem-vindo ao repositório da disciplina Desenvolvimento de Jogos Web II! 🚀 Este repositório será o seu guia e fonte de recursos 🛠️ para todas as aulas e projetos que desenvolveremos juntos ao longo do semestre. Prepare-se para criar jogos incríveis! 🎉
+Bem-vindo ao repositório oficial da disciplina **Desenvolvimento de Jogos Web II**! 🌐 Este espaço foi criado para que os alunos possam acessar os materiais das aulas, explorar recursos extras e consultar exemplos práticos que irão auxiliar na criação de seus jogos web. 🚀
 
-📂 Estrutura do Repositório
-bash
-Copiar código
-├── 📁 aulas/
-│   ├── 📁 aula01/
-│   │   ├── 📄 slides.pdf
-│   │   ├── 💻 exemplo_de_codigo.js
-│   │   └── 📜 material_adicional.txt
-│   ├── 📁 aula02/
-│   └── ...
-├── 📁 projetos/
-│   ├── 🕹️ exemplo_projeto_final/
-│   └── 🎮 projetos_alunos/
-├── 📚 materiais_de_apoio/
-│   ├── 📖 livros_recomendados.md
-│   ├── 🎥 videos_suporte.md
-│   └── 🌐 sites_recomendados.md
-└── 📝 README.md
-1. 📁 aulas/
-Aqui estão todas as aulas organizadas por pasta! 🎓 Dentro de cada pasta, você encontrará:
+---
 
-📄 Slides: As apresentações em PDF para acompanhar as aulas.
-💻 Exemplos de Código: Códigos usados como exemplos para entender os conceitos de desenvolvimento.
-📜 Materiais Adicionais: Conteúdos extras abordados durante as aulas.
-2. 📁 projetos/
-Esta pasta contém os exemplos de projetos e os projetos dos alunos! 🎮
+## 📂 Estrutura do Repositório
 
-🕹️ exemplo_projeto_final/: Um exemplo completo de jogo desenvolvido como referência.
-🎮 projetos_alunos/: Aqui você vai colocar o seu projeto, seja individual ou em grupo. Não esqueça de criar sua própria pasta!
-3. 📚 materiais_de_apoio/
-Nessa seção, você encontrará dicas valiosas para te ajudar a se aprofundar no desenvolvimento de jogos! 💡
+Aqui está a organização dos arquivos e pastas disponíveis:
 
-📖 livros_recomendados.md: Livros top 📚 para quem quer aprender mais!
-🎥 videos_suporte.md: Links para vídeos úteis e tutoriais de apoio.
-🌐 sites_recomendados.md: Plataformas e ferramentas online para te ajudar no desenvolvimento.
-🛠️ Como Usar
-Clone o Repositório: Para acessar os arquivos, clone este repositório no seu computador:
+- 📚 **/aulas/**: Contém os materiais de cada aula, incluindo slides, exercícios, exemplos de código e materiais complementares.
+- 🚀 **/projetos/**: Exemplos de projetos e espaço para armazenar os projetos dos alunos em desenvolvimento.
+- 📖 **/materiais_de_apoio/**: Reúne livros recomendados, sites, vídeos e outros recursos úteis para complementar seus estudos.
 
-bash
-Copiar código
-git clone [https://github.com/seu-usuario/desenvolvimento-jogos-web-ii.git](https://github.com/aquilapas/djwiiDesenvolvimentoJogos/tree/main)
-Navegue entre as Aulas: Use a pasta aulas/ para acessar o conteúdo de cada encontro.
+---
 
-Submeta seus Projetos: Para o projeto final, suba o seu trabalho na pasta projetos/projetos_alunos/. Crie uma subpasta com o seu nome ou o nome do seu grupo.
+## 💡 Como Usar Este Repositório
 
-📋 Requisitos
-📝 Editor de Texto: Sugerimos o uso de VSCode, Sublime Text ou qualquer outro de sua preferência.
-🌐 Navegador Web: Certifique-se de ter um navegador atualizado (Chrome, Firefox, etc.) para rodar os jogos.
-🐙 Git: Caso deseje contribuir ou colaborar no repositório.
-🌟 Como Contribuir
-Quer ajudar o repositório a crescer? 💡 Siga os passos abaixo:
+### Acesse os Materiais das Aulas:
+- Vá até a pasta **/aulas/** e escolha a aula que deseja consultar. Lá você encontrará os **slides** 📑, **exemplos de código** 💻 e **atividades práticas** 📝.
 
-Faça um fork deste repositório.
-Crie uma branch para sua feature: git checkout -b minha-feature.
-Adicione suas modificações: git commit -m 'Minha nova feature'.
-Faça um push para a branch: git push origin minha-feature.
-Abra um pull request.
+### Explore os Projetos:
+- Confira a pasta **/projetos/** para ver exemplos de jogos desenvolvidos ao longo do curso e projetos dos colegas. Um ótimo lugar para buscar inspiração! 🎨
 
-🎮 Boa sorte e vamos desenvolver jogos incríveis juntos! 💪
+### Utilize os Materiais de Apoio:
+- Na pasta **/materiais_de_apoio/** você encontrará recomendações de leitura 📚, vídeos 🎥 e sites úteis 🌐 para aprofundar seus conhecimentos em desenvolvimento de jogos web.
+
+---
+
+## 🔧 Contribuições
+
+💬 Encontrou algo que pode ser melhorado ou tem sugestões? Fique à vontade para abrir uma **Issue** ou enviar um **Pull Request** 🚀. Toda contribuição é bem-vinda e ajuda a tornar o repositório ainda mais rico para todos!
+
+---
+
+## 📬 Contato
+
+Professora: Áquila Porfirio  
+Email: aquila.santos@etec.sp.gov.br  
+GitHub: [https://github.com/aquilapas](https://github.com/aquilapas)
+
+---
+
+## 📜 Licença
+
+Este repositório está licenciado sob a Licença **MIT**.
+
+---
+
+## 🙌 Agradecimentos
+
+A todos os alunos que estão se dedicando e tornando esta jornada no desenvolvimento de jogos web tão incrível! Continuem explorando, criando e inovando! 💪
+
+_"Ama e faz o que quiseres. Se calares, calarás com amor; se gritares, gritarás com amor; se corrigires, corrigirás com amor; se perdoares, perdoarás com amor. Se tiveres o amor enraizado em ti, nenhuma coisa senão o amor serão os teus frutos." ~ Agostinho_
+
+---
