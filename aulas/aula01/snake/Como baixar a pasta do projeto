@@ -1,0 +1,40 @@
+Como baixar uma pasta específica do GitHub
+
+Passo 1: Acessar o repositório no GitHub
+Abra o navegador e vá para o GitHub.
+
+Acesse o repositório que contém a pasta que você deseja baixar.
+Navegue até a pasta desejada.
+
+Clique na pasta que você quer baixar.
+Passo 2: Baixar a pasta como arquivo ZIP
+Volte para o repositório principal.
+
+Clique no nome do repositório no topo da página (isso geralmente leva você de volta à raiz do repositório).
+Clique em "Code".
+
+No canto superior direito, clique no botão verde Code (ou "Código").
+Escolha "Download ZIP".
+
+No menu suspenso, clique em Download ZIP.
+Isso fará o download do repositório inteiro como um arquivo ZIP.
+Passo 3: Extraia a pasta desejada
+Localize o arquivo ZIP baixado.
+
+Após o download, vá até a pasta onde o arquivo foi salvo.
+Extraia o arquivo ZIP.
+
+Clique com o botão direito no arquivo ZIP e selecione Extrair Aqui ou use uma ferramenta de extração (como WinRAR ou 7-Zip) para extrair o conteúdo.
+Localize a pasta desejada.
+
+Após a extração, navegue até a pasta que você queria dentro do diretório extraído.
+Passo 4: Abrir a pasta no Sublime Text
+Abra o Sublime Text.
+
+Abrir a pasta do projeto no Sublime
+
+Vá para o menu File (ou Arquivo) e clique em Open Folder... (ou Abrir Pasta...).
+Navegue até a pasta extraída e clique em Open.
+Agora, todos os arquivos da pasta estarão disponíveis no Sublime Text para edição.
+
+E pronto! Você baixou uma pasta específica do GitHub e a abriu no Sublime Text. Se precisar de mais ajuda, é só avisar!
